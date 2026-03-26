@@ -2,7 +2,7 @@
 layout: cv
 title: Bryce Quigley's CV
 ---
-# Isaac Newton
+# Bryce Quigley
 Programmer, data engineer, meme enjoyer
 
 
